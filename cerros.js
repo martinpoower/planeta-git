@@ -1,3 +1,4 @@
 var arboles = 333;
 var nieve = 999:
-var animales = 444;
+var rocas = 777;
+var rio = 333;
